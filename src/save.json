@@ -6,5 +6,11 @@
     "prices": {
         "food": 2,
         "water": 3
-    }
+    },
+		"random": {
+			"exploration": {
+				"animal":7,
+				"temple":27
+			}
+		}
 }
