@@ -1,0 +1,10 @@
+{
+    "player": {
+        "food": 2,
+        "water": 5
+    },
+    "prices": {
+        "food": 2,
+        "water": 3
+    }
+}
