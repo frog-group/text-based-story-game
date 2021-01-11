@@ -1,0 +1,51 @@
+{
+    "player": {
+        "phys": {
+            "str": 5,
+            "hp": 20,
+            "hgr": 2,
+            "thirst": 5,
+            "spd": 5
+        },
+        "ment": {
+            "insanity": 0,
+            "apathy": 0
+        }
+    },
+    "prices": {
+        "food": 2,
+        "water": 3
+    },
+    "random": {
+        "exploration": {
+            "animal": 7,
+            "temple": 27
+        }
+    },
+    "wpns": {
+        "qual": {
+            "brk": {
+                "prefix": "Broken",
+                "dmg": -1
+            }
+        },
+        "dgr": {
+            "iron": {
+                "name": "Iron Dagger",
+                "has": false,
+                "dmg": 5,
+                "weight": 2,
+                "desc": "A broken iron dagger."
+            }
+        }
+    },
+    "mobs": {
+        "animals": {
+            "wolf": {
+                "dmg": 5,
+                "hp": 20,
+                "hostile": true
+            }
+        }
+    }
+}
